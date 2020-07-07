@@ -20,7 +20,7 @@
 			<li class="hover:bg-gray-100">
 				<a
 					href="."
-					class="h-16 px-6 flex flex justify-center items-center w-full
+					class="h-16 px-6 flex justify-center items-center w-full
 					focus:text-orange-500">
 					<svg
 						class="h-5 w-5"
@@ -47,7 +47,7 @@
 			<li class="hover:bg-gray-100">
 				<a
 					href="."
-					class="h-16 px-6 flex flex justify-center items-center w-full
+					class="h-16 px-6 flex justify-center items-center w-full
 					focus:text-orange-500">
 					<svg
 						class="h-5 w-5"
@@ -70,7 +70,7 @@
 			<li class="hover:bg-gray-100">
 				<a
 					href="."
-					class="h-16 px-6 flex flex justify-center items-center w-full
+					class="h-16 px-6 flex justify-center items-center w-full
 					focus:text-orange-500">
 
 					<svg
@@ -96,7 +96,7 @@
 			<li class="hover:bg-gray-100">
 				<a
 					href="."
-					class="h-16 px-6 flex flex justify-center items-center w-full
+					class="h-16 px-6 flex justify-center items-center w-full
 					focus:text-orange-500">
 					<svg
 						class="h-5 w-5"
@@ -122,7 +122,7 @@
 			<li class="hover:bg-gray-100">
 				<a
 					href="."
-					class="h-16 px-6 flex flex justify-center items-center w-full
+					class="h-16 px-6 flex justify-center items-center w-full
 					focus:text-orange-500">
 					<svg
 						class="h-5 w-5"
@@ -159,7 +159,7 @@
 			<li class="hover:bg-gray-100">
 				<a
 					href="."
-					class="h-16 px-6 flex flex justify-center items-center w-full
+					class="h-16 px-6 flex justify-center items-center w-full
 					focus:text-orange-500">
 					<svg
 						class="h-5 w-5"
@@ -184,8 +184,8 @@
 		<div class="mt-auto h-16 flex items-center w-full">
 			<!-- Action Section -->
 			<button
-				class="h-16 w-10 mx-auto flex flex justify-center items-center
-				w-full focus:text-orange-500 hover:bg-red-200 focus:outline-none">
+				class="h-16 w-10 mx-auto flex justify-center items-center
+				 focus:text-orange-500 hover:bg-red-200 focus:outline-none">
 				<svg
 					class="h-5 w-5 text-red-700"
 					xmlns="http://www.w3.org/2000/svg"

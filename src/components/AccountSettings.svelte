@@ -143,7 +143,7 @@
               </label>
               <textarea
                 class="bg-gray-100 rounded-md border leading-normal resize-none
-                 h-20 py-2 px-3 shadow-inner border border-gray-400
+                 h-20 py-2 px-3 shadow-inner border-gray-400
                 font-medium placeholder-gray-700 focus:outline-none
                 focus:bg-white"
                 required />
