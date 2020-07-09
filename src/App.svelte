@@ -1,4 +1,5 @@
 <script>
+import Tailwindcss from './Tailwindcss.svelte';
   import router from "page";
   import {pagePath} from './store.js';
 
@@ -34,5 +35,6 @@ import Navbar from './components/Navbar.svelte';
   // Set up the router to start and actively watch for changes
   router.start();
 </script>
+<Tailwindcss></Tailwindcss>
 <Navbar></Navbar>
 <svelte:component this={page} params={params} />
